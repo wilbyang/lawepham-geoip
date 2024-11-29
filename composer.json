@@ -1,5 +1,6 @@
 {
     "name": "lawepham/geoip",
+    "type": "library",
     "description": "Get location information from IP",
     "authors": [
         {
